@@ -58,7 +58,7 @@ body {
     -moz-text-shadow: -1px 1px 2px #000, 1px -1px 2px #ffcf68;
     -webkit-text-shadow: -1px 1px 2px #000, 1px -1px 2px #ffcf68;
     text-shadow: -1px 1px 2px #000, 1px -1px 1px #ffcf68;
-    filter: glow(color=#252525,strength=3);
+    filter: glow(color=#e9e9e9,strength=3);
 
     /* colors */
     border-color: #555555;
